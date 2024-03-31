@@ -1,0 +1,1 @@
+//{"jsonapi":{"version":"1.0","meta":{"protocol_version":"2.0"}},"meta":{"session_id":"4225067886","request_id":"1"},"data":[],"errors":[{"id":"1388741820","status":"204"}],"common":{"csrReason":3,"itsConfig":{"test_value":1}}}
